@@ -1,0 +1,22 @@
+{
+  "name": "trdo-scot",
+  "version": "1.0.0",
+  "description": "trendo token scot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AneilPatel05/trdo-scot.git"
+  },
+  "author": "Aneilpatel05",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AneilPatel05/trdo-scot/issues"
+  },
+  "homepage": "https://github.com/AneilPatel05/trdo-scot#readme",
+  "dependencies": {
+    "steem-stream": "^3.0.5"
+  }
+}
