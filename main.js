@@ -3,7 +3,8 @@ const { Streamer } = require('steem-stream');
 const options = {
     ACTIVE_KEY: '',
     APP_NAME: 'trendotoken',
-    USERNAME: 'trendotoken'
+    USERNAME: 'trendotoken',
+    BLOCK_CHECK_INTERVAL: 20
   }
   
 const ss = new Streamer(options);
